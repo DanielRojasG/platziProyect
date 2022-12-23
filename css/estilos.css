@@ -1,6 +1,8 @@
 body {
     text-align: center;
     font-family: Arial;
-    color: rgba(110, 20, 255, 0.247);
-    border: 2px solid black;
+    color: rgba(1, 41, 17);
+    border: 5px solid black;
+    width: 500px;
+    justify-content: center;
 }
