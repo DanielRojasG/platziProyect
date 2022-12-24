@@ -1,8 +1,28 @@
 body {
     text-align: center;
     font-family: Arial;
+    font-size: 17px;
     color: rgba(1, 41, 17);
     border: 5px solid black;
     width: 500px;
-    justify-content: center;
+}
+
+#cabecera {
+    background-color: rgb(58, 1, 110);
+    box-shadow: 0px 2px 20px 0px black ;
+    color: white;
+    height: 80px;
+    width: 500px;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+
+#header {
+    font-size: 30px;
+}
+
+#parrafo {
+    padding: 15px 0px 0px 0px;
+    font-size: 20px;
+    margin: 0;
 }
