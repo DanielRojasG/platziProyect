@@ -29,3 +29,7 @@ body {
     font-family: 'Franklin Gothic Medium';
     color: white
 }
+
+#blog {
+    padding: 15px;
+}
